@@ -14,3 +14,5 @@ A meditation app made to put the timer that you want and do your meditation time
 ## Back End
 - **JS**
 
+# 📝 License
+This project have the license of the [MIT](./LICENSE). 
