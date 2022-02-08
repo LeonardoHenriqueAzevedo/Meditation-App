@@ -3,5 +3,5 @@ A meditation app made to put the timer that you want and do your meditation time
 
 ## Interface 
 <h1 align="center">
-    <img alt="Doe_GIF" title="Doe_Interface_GIF" src="github/Doe_Website_GIF.gif">
+    <img alt="Meditation_GIF" title="Meditation_App_Interface_GIF" src="github/meditation_app_GIF.gif">
 </h1>
