@@ -2,4 +2,4 @@
  A meditation app made in Javascript
 
 # ✔️ Project
-A website to find persons to donate blood, register them and after this we can pick the information they passed to us to contact for the blood donation.
+A meditation app made to put the timer that you want and do your meditation time with a good sound in the background.
